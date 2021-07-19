@@ -1,0 +1,73 @@
+Jul 18 18:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 18:30 : update: added /Mrs. GREEN APPLE - インフェルノ（Inferno） - YouTube.MP3
+Jul 18 18:30 : update: added /[1080P Full風] 千本桜 Senbonzakura One Thousand Cherry Trees- 初音ミク Hatsune Miku DIVA English Romaji - YouTube.MP3
+Jul 18 18:30 : update: added /フィアー·アンド·ロージング·イン·ラスベガス Cover) - YouTube.MP3
+Jul 18 18:30 : update: added /BURNOUT SYNDROMES 『Good Morning World!』Music Video（TVアニメ「Ｄｒ．ＳＴＯＮＥ」オープニングテーマ） - YouTube.MP3
+Jul 18 18:30 : update: added /【東方Vocal】 Bad Apple!! feat.nomico (Nhato Remix) 「Alstroemeria Records」 【Subbed】 - YouTube.MP3
+Jul 18 18:30 : update: added /Death Note - L's Theme 【Intense Symphonic Metal Cover】 - YouTube.MP3
+Jul 18 18:30 : update: added /Tokyo Ghoul - Licht und Schatten 【Intense Symphonic Metal Cover】 - YouTube.MP3
+Jul 18 18:30 : update: added /kyOresu - Sono Chi no Sadame - JoJo's Opening (loli cover) - YouTube.MP3
+Jul 18 18:30 : update: added /Ievan Polkka 【Intense Symphonic Metal Cover】 - YouTube.MP3
+Jul 18 18:30 : update: added /Tokyo Ghoul OP - unravel (feat. Rena) 【Intense Symphonic Metal Cover】 - YouTube.MP3
+Jul 18 18:30 : update: added /アウトサイダー - Eve MV - YouTube.MP3
+Jul 18 18:30 : update: added /ミセスグリーンアップル Cover) - YouTube.MP3
+Jul 18 18:30 : update: added /Gravity Falls Theme Song 【EXTENDED Rock Version】Song by NateWantstoBattle - YouTube.MP3
+Jul 18 18:30 : update: added /Apocalypse Orchestra - The Garden Of Earthly Delights (Official Music Video) - YouTube.MP3
+Jul 18 18:30 : update: added /Nightcore - Senbonzakura (CLAWZ Remix) - YouTube.MP3
+Jul 18 18:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 18:32 : update: added /kyOresu - DORIME (loli cover).mp3
+Jul 18 18:32 : update: added /Pillar Main Theme - Awaken.mp3
+Jul 18 18:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 18:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 18:35 : player: played "Gravity Falls Theme Song 【EXTENDED Rock Version】Song by NateWantstoBattle - YouTube.MP3"
+Jul 18 18:37 : player: played "Ievan Polkka 【Intense Symphonic Metal Cover】 - YouTube.MP3"
+Jul 18 18:41 : player: played "kyOresu - DORIME (loli cover).mp3"
+Jul 18 18:43 : player: played "kyOresu - Sono Chi no Sadame - JoJo's Opening (loli cover) - YouTube.MP3"
+Jul 18 18:48 : player: played "ミセスグリーンアップル Cover) - YouTube.MP3"
+Jul 18 18:55 : player: played "【東方Vocal】 Bad Apple!! feat.nomico (Nhato Remix) 「Alstroemeria Records」 【Subbed】 - YouTube.MP3"
+Jul 18 18:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 18:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 18:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 18:59 : player: played "【東方Vocal】 Bad Apple!! feat.nomico (Nhato Remix) 「Alstroemeria Records」 【Subbed】 - YouTube.MP3"
+Jul 18 19:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 19:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 19:10 : player: played "【東方Vocal】 Bad Apple!! feat.nomico (Nhato Remix) 「Alstroemeria Records」 【Subbed】 - YouTube.MP3"
+Jul 18 19:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 19:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 19:14 : player: played "【東方Vocal】 Bad Apple!! feat.nomico (Nhato Remix) 「Alstroemeria Records」 【Subbed】 - YouTube.MP3"
+Jul 18 19:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 19:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 19:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 19:28 : player: played "[1080P Full風] 千本桜 Senbonzakura One Thousand Cherry Trees- 初音ミク Hatsune Miku DIVA English Romaji - YouTube.MP3"
+Jul 18 19:33 : player: played "[1080P Full風] 千本桜 Senbonzakura One Thousand Cherry Trees- 初音ミク Hatsune Miku DIVA English Romaji - YouTube.MP3"
+Jul 19 12:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 12:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 12:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 12:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 12:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 12:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 12:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 12:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 13:09 : player: played "[1080P Full風] 千本桜 Senbonzakura One Thousand Cherry Trees- 初音ミク Hatsune Miku DIVA English Romaji - YouTube.MP3"
+Jul 19 13:15 : player: played "【東方Vocal】 Bad Apple!! feat.nomico (Nhato Remix) 「Alstroemeria Records」 【Subbed】 - YouTube.MP3"
+Jul 19 13:24 : player: played "Apocalypse Orchestra - The Garden Of Earthly Delights (Official Music Video) - YouTube.MP3"
+Jul 19 13:28 : player: played "BURNOUT SYNDROMES 『Good Morning World!』Music Video（TVアニメ「Ｄｒ．ＳＴＯＮＥ」オープニングテーマ） - YouTube.MP3"
+Jul 19 13:31 : player: played "Death Note - L's Theme 【Intense Symphonic Metal Cover】 - YouTube.MP3"
+Jul 19 13:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 13:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 13:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 13:37 : player: played "Gravity Falls Theme Song 【EXTENDED Rock Version】Song by NateWantstoBattle - YouTube.MP3"
+Jul 19 13:39 : player: played "Ievan Polkka 【Intense Symphonic Metal Cover】 - YouTube.MP3"
+Jul 19 13:54 : player: played "kyOresu - DORIME (loli cover).mp3"
+Jul 19 13:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 13:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 14:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 14:05 : player: played "kyOresu - DORIME (loli cover).mp3"
+Jul 19 14:07 : player: played "kyOresu - Sono Chi no Sadame - JoJo's Opening (loli cover) - YouTube.MP3"
+Jul 19 14:14 : player: played "Mrs. GREEN APPLE - インフェルノ（Inferno） - YouTube.MP3"
+Jul 19 14:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 14:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 14:18 : player: played "Mrs. GREEN APPLE - インフェルノ（Inferno） - YouTube.MP3"
+Jul 19 14:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 14:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 14:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
